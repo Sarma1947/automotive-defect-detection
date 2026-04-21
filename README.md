@@ -14,6 +14,9 @@ on the MVTec Anomaly Detection dataset.
 
 ![Results](outputs/ensemble_comparison.png)
 
+## Defect Localization (GRAD-CAM)
+![Grad-CAM](outputs/gradcam_visualization.png)
+
 ## Key Finding
 Ensemble of ResNet50 + EfficientNet-B4 + DenseNet121 feature extractors 
 achieves 90.24% mean AUROC, outperforming all individual models by up to +4.57%.
